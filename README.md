@@ -2,11 +2,8 @@
 
 ## 👾 Sobre Mim
 
-<div align="center">
-
 ```python
 class Ragezeed:
-
     def __init__(self):
         self.name      = "Victor"
         self.alias     = "ragezeed"
@@ -16,8 +13,13 @@ class Ragezeed:
 
     def languages(self):
         return [
-            "Java", "JavaScript", "TypeScript",
-            "Python", "C#", "PHP", "HTML/CSS"
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "Python",
+            "C#",
+            "PHP",
+            "HTML/CSS"
         ]
 
     def stack(self):
@@ -33,132 +35,112 @@ class Ragezeed:
         return "Talk is cheap. Show me the code."
 ```
 
-<br>
-
-> ### *"I don't just write code...*
->
-> ### *I architect digital worlds."*
-
-</div>
+> **"I don't just write code... I architect digital worlds."**
 
 ---
 
 ## ⚡ Tech Stack
 
+### `01` · Languages
+
 <div align="center">
 
-### `01` — Languages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<br>
+</div>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+### `02` · Web & Backend
 
-<br><br>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 
-### `02` — Web
+</div>
 
-<br>
+### `03` · Game & Minecraft
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<div align="center">
 
-<br><br>
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Spigot%20%2F%20Bukkit-ED8B00?style=for-the-badge&logo=spigot&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 
----
+</div>
 
-### `03` — Ecosystem
+### `04` · Tools
 
-<br>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<br><br>
-
----
-
-### `04` — Tools
-
-<br>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Currently
+## 🚀 Atualmente
 
-<table width="100%">
+<table>
 <tr>
-
 <td width="50%" align="center">
 
-### 💻 WORKING ON
+### 💻 Trabalhando em
 
 <br>
 
 **Minecraft Plugins**
 
-`████████████████░░░░`
-
 <br>
 
 **Server Architecture**
-
-`██████████████░░░░░░`
 
 </td>
 
 <td width="50%" align="center">
 
-### 📚 LEARNING
+### 📚 Aprendendo
 
 <br>
 
 **Advanced Java**
 
-`████████████░░░░░░░░`
-
 <br>
 
 **System Design**
 
-`██████████░░░░░░░░░░`
-
 </td>
-
 </tr>
 </table>
 
 ---
 
-## 🎯 2026 Objectives
+## 🎯 Metas 2026
 
-<table width="100%">
+<table>
 <tr>
 
 <td align="center" width="33%">
 
 ### 🔮
 
-## `5+`
+**5+**
 
-**Open Source**
+Open Source
 
-plugins publicados
+<br>
+
+Plugins open source
 
 </td>
 
@@ -166,11 +148,13 @@ plugins publicados
 
 ### ⚙️
 
-## `∞`
+**∞**
 
-**Architecture**
+Architecture
 
-dominar sistemas distribuídos
+<br>
+
+Sistemas distribuídos
 
 </td>
 
@@ -178,59 +162,46 @@ dominar sistemas distribuídos
 
 ### 🎮
 
-## `01`
+**01**
 
-**Game Dev**
+Game Dev
 
-criar um jogo na Unity
+<br>
+
+Um jogo na Unity
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-`OPEN SOURCE`   •   `SYSTEM DESIGN`   •   `GAME DEV`
-
-</div>
-
 ---
 
 ## 🧠 Curiosidades
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### 🌎 Languages
+### 🌎
 
-<br>
+**Idiomas**
 
-🇧🇷 **PT-BR**
-
-🇺🇸 **English**
-
-<br>
-
-`BILINGUAL`
+🇧🇷 PT-BR
+🇺🇸 English
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### 🌙 Coding Hours
+### 🌙
 
-<br>
+**Melhor horário**
 
-**02:00 AM**
+`02:00 AM`
 
-<br>
-
-`NIGHT OWL`
+Night Owl
 
 </td>
 
@@ -238,36 +209,29 @@ criar um jogo na Unity
 
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### 🐧 Environment
+### 🐧
 
-<br>
+**Sistema**
 
-**Linux**
+`Linux`
 
-<br>
-
-`DAILY DRIVER`
+Daily Driver
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### ☕ Workflow
+### 💻
 
-<br>
+**Workflow**
 
-**Code → Learn → Repeat**
-
-<br>
-
-`∞ LOOP`
+`Code → Learn → Repeat`
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -293,8 +257,6 @@ public class Ragezeed {
 }
 ```
 
-<br>
-
 ### `> Building the impossible.`
 
 <br>
@@ -307,11 +269,7 @@ public class Ragezeed {
 
 <br>
 
-`────────────────────────────────────────`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ragezeed&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ragezeed&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
